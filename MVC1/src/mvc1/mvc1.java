@@ -1,3 +1,4 @@
+//RICARDO MANOTAS - MARIA TOVAR
 import controller.EventoController;
 import controller.ParticipanteController;
 import controller.InscripcionControlador;
